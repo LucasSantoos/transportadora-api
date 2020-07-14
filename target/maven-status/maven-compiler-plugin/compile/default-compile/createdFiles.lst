@@ -1,0 +1,15 @@
+br\com\transportes\models\Cargas.class
+br\com\transportes\resources\CaminhoesResource.class
+br\com\transportes\models\Clientes.class
+br\com\transportes\resources\JavaEE8Resource.class
+br\com\transportes\resources\CargasResource.class
+br\com\transportes\models\Transportes.class
+br\com\transportes\resources\TransportesResource.class
+br\com\transportes\resources\HelloWorldResource.class
+br\com\transportes\CorsFilter.class
+br\com\transportes\models\Caminhoes.class
+br\com\transportes\models\Motoristas.class
+br\com\transportes\models\TipoHabilitacao.class
+br\com\transportes\JAXRSConfiguration.class
+br\com\transportes\resources\ClientesResource.class
+br\com\transportes\resources\MotoristasResource.class
